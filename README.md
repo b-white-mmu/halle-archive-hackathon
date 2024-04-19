@@ -1,4 +1,4 @@
-# halle-archive-hackathon
+# Hallé Archive Hackathon
 Hallé Archive Hackathon
 
 Join us and explore the history of one of Manchester’s oldest musical institution by experimenting with data, AI and other digital tools.
